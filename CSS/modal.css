@@ -2,6 +2,10 @@
   Basic Modal Styles
 \**************************/
 
+.modal {
+  z-index: 2;
+}
+
 .modal__overlay {
   position: fixed;
   top: 0;
